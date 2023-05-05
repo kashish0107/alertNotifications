@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.main-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+.text-con {
+  width: 40vw;
+  height: 20vh;
+  /* background-color: rebeccapurple; */
+}
+
+.icon-size {
+  width: 5vw;
+  height: 5vh;
+}
+
+.success {
+  color: #2dca73;
+}
+
+.danger {
+  color: #ff0b37;
+}
+
+.warning {
+  color: #ffb800;
+}
+
+.info {
+  color: #0f81e0;
+}
+
+.close-icon {
+  width: 30px;
+  height: 30px;
+  color: #0f172a;
+  margin-right: 20px;
+}
